@@ -12,6 +12,9 @@
 ### Open-source tools
 
 - [vps-first-steps](https://github.com/phantomvps/vps-first-steps): safe first-hour setup for a fresh Ubuntu / Debian VPS
+- [wireguard-vps](https://github.com/phantomvps/wireguard-vps): your own WireGuard VPN server with client configs and QR codes
+- [monero-node-vps](https://github.com/phantomvps/monero-node-vps): a verified Monero node (pruned or full) as a systemd service
+- [tor-relay-vps](https://github.com/phantomvps/tor-relay-vps): a Tor middle/guard relay (never an exit) in one command
 
 ### Guides
 
