@@ -2,12 +2,12 @@
 
 **No-KYC VPS and dedicated servers, paid in crypto.** Root access, no ID documents, no phone number.
 
-- 🌐 Website: [phantomvps.com](https://phantomvps.com)
+- 🌐 Website: [phantomvps.com](https://phantomvps.com?ref=github)
 - 🧅 Tor mirror: `jiujp4rjljjzqso6sej4bredgwb5tg7pbuhe5bf2xb33dmarde5dbhid.onion`
 - 💳 Pay with Monero (XMR), Bitcoin, Litecoin, USDT, USDC, SOL or TRX
 - ⚡ Fast delivery after payment
 - 🔑 Sign up with one click using an anonymous access key, a user ID and password, or an email
-- 📊 Public status page: [phantomvps.com/status](https://phantomvps.com/status)
+- 📊 Public status page: [phantomvps.com/status](https://phantomvps.com/status?ref=github)
 
 ### Open-source tools
 
@@ -18,6 +18,6 @@
 
 ### Guides
 
-- [Monero VPS](https://phantomvps.com/monero-vps) · [No-KYC VPS](https://phantomvps.com/no-kyc-vps) · [Bitcoin VPS](https://phantomvps.com/bitcoin-vps) · [Crypto dedicated servers](https://phantomvps.com/crypto-dedicated-servers)
+- [Monero VPS](https://phantomvps.com/monero-vps?ref=github) · [No-KYC VPS](https://phantomvps.com/no-kyc-vps?ref=github) · [Bitcoin VPS](https://phantomvps.com/bitcoin-vps?ref=github) · [Crypto dedicated servers](https://phantomvps.com/crypto-dedicated-servers?ref=github)
 
 Support: support@phantomvps.com
